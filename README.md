@@ -11,7 +11,7 @@ Parkinson's disease (PD) is a progressive disorder of central nervous system tha
 The dataset contains a range of biomedical vocal measurements from people with early-stage Parkinson's disease through a telemonitoring device. The main aim of the data is to predict 'total_UPDRS' based on the 16 voice measures (starting from Jitter to PPE) as mentioned below.
 
 ## Dataset Source: 
-https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring
+UCI Machine Learning Repository
 
 ## Attribute Information:
 * **subject#** - Serial Number <br>
