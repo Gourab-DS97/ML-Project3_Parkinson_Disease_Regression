@@ -17,7 +17,7 @@ UCI Machine Learning Repository
 * **subject#** - Serial Number <br>
 * **age** - Patient's age<br>
 * **sex** - Patient's gender '0': male, '1': female<br>
-* **test_time** - Time since admission into trial. Integer part represents number of days since recruitment<br>
+* **test_time** - Number of Times into trial. Integer part represents number of days <br>
 * **total_UPDRS** - Clinician's total UPDRS score<br>
 * **Jitter** - Measures of variation in fundamental frequency <br>
 * **Shimmer** - Several measures of variation in amplitude <br>
